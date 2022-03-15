@@ -56,7 +56,7 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Bot Lectura_rapida_body_suit](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
+[![Bot Lectura_rapida_body_suit](content://com.estrongs.files/storage/emulated/0/Download/bodysuit.jpg)](https://github.com/TheShadowBrokers1) 
 ```bash
 `Bot Lectura_rapida_body_suit™
 ```
