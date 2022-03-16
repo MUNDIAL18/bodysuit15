@@ -1,4 +1,4 @@
-# ***`BODYSUIT- Bot`***
+# ***`BODYSUIT-Bot`***
 ### `Si necesitas ayuda mandame mensaje`
 <a href="http://wa.me/573245104054" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete al grupo ofical para conocer novedades del Bot`
