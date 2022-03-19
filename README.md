@@ -7,7 +7,7 @@
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/blob/master/config.js)
 
 ### `Video tutorial para instalar el Bot`
-<a href="https://youtu.be/dP8-aaHinBE"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://youtube.com/shorts/E4Kf-pUaIc8?feature=share"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
 > Dar click en la imagen para redireccionarlos a YouTube
 
 ### `INSTALACION TERMUX OPCION 1 (GitHub)`
