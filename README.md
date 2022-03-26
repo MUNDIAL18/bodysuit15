@@ -56,7 +56,7 @@ de esa cantidad el Bot empieza a ir
 excesivamente lento
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![Bot Lectura_rapida_body_suit](https://www.linkpicture.com/q/bodysuit.jpg)](https:/que/github.com/TheShadowBrokers1) 
+[![Bot Lectura_rapida_body_suit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiauevvzt8G2rUXqAp4b3M2gC5IsFYDVqorb4rmX4Tjjeu8qITcnDdkUPQo5P-Dq0av1YWPendCNe6MJiSJWiTwQ1B32f7HbKNVJ_dlQSntFzYNjDuKHNAzINz6VNz0NcMgMPwgZSRU6YVhd6sWIDJ39_cmaq4sfOnI24sA2rnGgvK1D_jX1W3RLvOf/s722/IMG_20220325_202313_349.jpg)](https:/que/github.com/TheShadowBrokers1) 
 ```bash
 `Bot Lectura_rapida_body_suit™
 ```
