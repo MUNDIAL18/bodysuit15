@@ -1,5 +1,5 @@
 <P align="center">
-<img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> soy un legendario y soy Samurai 🥷 <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
+<img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> soy un legendario y soy Samurai 🥷✓™® <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
  <P align="center">
 <img src="https://giffiles.alphacoders.com/152/15268.gif" width="230" height="230"/>
 </p>
