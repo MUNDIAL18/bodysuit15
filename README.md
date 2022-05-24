@@ -14,7 +14,7 @@
  
 </details>
 <P align="center">
-⚡Un bot muy simple para whatsapp :D
+⚡Este bot te ayuda a cuidar tu grupo de virus y fantasmas:✴️
 
 </p>
 
