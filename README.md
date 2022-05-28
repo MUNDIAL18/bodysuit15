@@ -53,7 +53,7 @@ Para nuevos desde cero en termux:
 ```
 ## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
 ```bash
-> git clone https://github.com/NeKosmic/NK-BOT 
+> git clone  https://github.com/MUNDIAL18/bodysuit15
 > cd NK-BOT
 > bash install.sh
 > npm start
